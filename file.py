@@ -11,5 +11,5 @@ def leap_year(year):
     ("Not leap year")
 def days_in_month(days):
   days(31,28,31,30,31,30,31,31,30,30,28,30)
-year = input("insert the year")
-day = input("what is the day")
+year = input("What is the year? ")
+day = input("what is the day? ")
